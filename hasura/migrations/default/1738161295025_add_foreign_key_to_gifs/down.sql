@@ -1,0 +1,2 @@
+ALTER TABLE gifs
+DROP CONSTRAINT IF EXISTS fk_gifs_category;
